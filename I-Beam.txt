@@ -1,0 +1,1 @@
+{tiles:[{boxes:[[I;2,14,0,7,15,16,33],[I;9,14,0,14,15,16,35],[I;2,15,0,14,16,16],[I;7,1,0,9,15,16],[I;2,0,0,14,1,16],[I;2,1,0,7,2,16,34],[I;9,1,0,14,2,16,32]],tile:{color:-10790053,meta:4,block:"littletiles:ltcoloredblock",tID:"BlockTileColored"},group:1b}],min:[I;2,0,0],size:[I;12,16,16],count:7,structure:{name:"Steel I Beam",id:"fixed"}}

@@ -1,0 +1,1 @@
+{tiles:[{boxes:[[I;2,14,0,14,16,16],[I;7,2,0,9,14,16],[I;2,0,0,14,2,16]],tile:{color:-10790053,meta:4,block:"littletiles:ltcoloredblock",tID:"BlockTileColored"},group:1b}],min:[I;2,0,0],size:[I;12,16,16],count:3,structure:{name:"Steel H Beam",id:"fixed"}}
