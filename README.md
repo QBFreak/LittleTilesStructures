@@ -34,3 +34,9 @@ These are various LittleTiles exports that I've made.
 - [MetalRungLadder.txt](MetalRungLadder.txt?raw=true) - The horizontal equivalent to the `Metal Rung Ladder` from Engineer's Decor. Purely decorative. 32-voxel grid. Requires Immersive Engineering (Steel Block).
 
 ![Metal Rung Ladder](MetalRungLadder.png)
+
+ - [TinyAdvancedRecipe.txt](TinyAdvancedRecipe.txt?raw=true) - A tiny, decorative, Advanced Recipe. 32-voxel grid.
+ - [TinyRecipe.txt](TinyRecipe.txt?raw=true) - A tiny, decorative, Little Recipe. 32-voxel grid.
+
+![Tiny recipes](TinyRecipes.png)
+
