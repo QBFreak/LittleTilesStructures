@@ -4,11 +4,11 @@ These are various LittleTiles exports that I've made.
 
 - [Industrial Railing](./Industrial%20Railing/) - A collection of generic industrial railing sections
 
-![Industrial Railing overview](./Industrial%2Railing/IndustrialRailing-Demo-small.png)
+![Industrial Railing overview](./Industrial%20Railing/IndustrialRailing-Demo-small.png)
 
 - [Sawtooth Roof](./Sawtooth%20Roof/) - A collection of structures for building a sawtooth roof.
 
-![Sawtooth Roof overview](./Sawtooth%20Roof/SawToothRoof-1-small.png)
+![Sawtooth Roof overview](./Sawtooth%20Roof/SawtoothRoof-1-small.png)
 
 - GarageDoor.txt - A simple Garage Door that opens upwards six blocks after sliding inwards one block. Axis is the lower left. Requires Chisel.
 
