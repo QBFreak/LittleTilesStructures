@@ -8,43 +8,43 @@ Intended primarily for raised floors and stairs, the railing is designed to be p
 
 ![Industrial Railing overview](IndustrialRailing-Demo.png)
 
-## [IndustrialRailingCorner.txt](IndustrialRailingCorner.txt)
+## [IndustrialRailingCorner.txt](IndustrialRailingCorner.txt?raw=true)
 
 A corner section with vertical supports on both ends. Useful to stand alone or as the center of a longer section.
 
 ![Industrial Railing Corner](IndustrialRailingCorner.png)
 
-## [IndustrialRailingLanding.txt](IndustrialRailingLanding.txt)
+## [IndustrialRailingLanding.txt](IndustrialRailingLanding.txt?raw=true)
 
 The section of railing for the bottom landing of a set of stairs. Transitions from a level surface with no railing to ascending stairs.
 
 ![Industrial Railing Landing](IndustrialRailingLanding.png)
 
-## [IndustrialRailingStep.txt](IndustrialRailingStep.txt)
+## [IndustrialRailingStep.txt](IndustrialRailingStep.txt?raw=true)
 
 Ascending/descending stairs
 
 ![Industrial Railing Step](IndustrialRailingStep.png)
 
-## [IndustrialRailingStraight.txt](IndustrialRailingStraight.txt)
+## [IndustrialRailingStraight.txt](IndustrialRailingStraight.txt?raw=true)
 
 A horizontal straight section for level/flat floors.
 
 ![Industrial Railing Straight](IndustrialRailingStraight.png)
 
-## [IndustrialRailingTopStep.txt](IndustrialRailingTopStep.txt)
+## [IndustrialRailingTopStep.txt](IndustrialRailingTopStep.txt?raw=true)
 
 A transition from ascending/descending to horizontal. Perfect for the last step at the top of your stairs.
 
 ![Industrial Railing Top Step](IndustrialRailingTopStep.png)
 
-## [IndustrialRailingTopStepInsideCorner.txt](IndustrialRailingTopStepInsideCorner.txt)
+## [IndustrialRailingTopStepInsideCorner.txt](IndustrialRailingTopStepInsideCorner.txt?raw=true)
 
 A transition from ascending/descending to horizontal, where the landing at the top of the stairs takes an immediate 180-degree turn. Requires a one-block gap between the parallel walkway and the stairs.
 
 ![Industrial Railing Top Step Inside Corner](IndustrialRailingTopStepInsideCorner.png)
 
-## [IndustrialRailingTopStepNarrow.txt](IndustrialRailingTopStepNarrow.txt)
+## [IndustrialRailingTopStepNarrow.txt](IndustrialRailingTopStepNarrow.txt?raw=true)
 
 A transition from ascending/descending to horizontal, where the railing makes an immediate 180-degree turn and remains much closer to the stairs than the previous. Good for the railing around the top of stairwells.
 

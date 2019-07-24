@@ -10,27 +10,27 @@ These are various LittleTiles exports that I've made.
 
 ![Sawtooth Roof overview](./Sawtooth%20Roof/SawtoothRoof-1-small.png)
 
-- [GarageDoor.txt](GarageDoor.txt) - A simple Garage Door that opens upwards six blocks after sliding inwards one block. Axis is the lower left. Requires Chisel.
+- [GarageDoor.txt](GarageDoor.txt?raw=true) - A simple Garage Door that opens upwards six blocks after sliding inwards one block. Axis is the lower left. Requires Chisel.
 
 ![Garage Door](GarageDoor.png)
 
-- [GarageDoorTrack.txt](GarageDoorTrack.txt) - Some track for the Garage Door so it doesn't just float in mid air when it's open.
+- [GarageDoorTrack.txt](GarageDoorTrack.txt?raw=true) - Some track for the Garage Door so it doesn't just float in mid air when it's open.
 
 ![Garage Door Track](GarageDoorTrack.png)
 
-- [H-Beam.txt](H-Beam.txt) - Steel colored H beam (also called Wide Flange or W beam). Simple design, trim any surface to fit installation. Single block sized.
+- [H-Beam.txt](H-Beam.txt?raw=true) - Steel colored H beam (also called Wide Flange or W beam). Simple design, trim any surface to fit installation. Single block sized.
 
 ![H Beam](H-Beam.png)
 
-- [I-Beam.txt](I-Beam.txt) - Steel colored I beam (also called American Standard, or S beam). Single block sized.
+- [I-Beam.txt](I-Beam.txt?raw=true) - Steel colored I beam (also called American Standard, or S beam). Single block sized.
 
 ![I Beam](I-Beam.png)
 
-- [Keyboard.txt](Keyboard.txt) - Quick little keyboard accessory for ComputerCraft
-- [Mouse.txt](Mouse.txt) - Quick little mouse accessory for ComputerCraft. 32-voxel grid.
+- [Keyboard.txt](Keyboard.txt?raw=true) - Quick little keyboard accessory for ComputerCraft
+- [Mouse.txt](Mouse.txt?raw=true) - Quick little mouse accessory for ComputerCraft. 32-voxel grid.
 
 ![Keyboard and mouse](KeyboardMouse.png)
 
-- [MetalRungLadder.txt](MetalRungLadder.txt) - The horizontal equivalent to the `Metal Rung Ladder` from Engineer's Decor. Purely decorative. 32-voxel grid. Requires Immersive Engineering (Steel Block).
+- [MetalRungLadder.txt](MetalRungLadder.txt?raw=true) - The horizontal equivalent to the `Metal Rung Ladder` from Engineer's Decor. Purely decorative. 32-voxel grid. Requires Immersive Engineering (Steel Block).
 
 ![Metal Rung Ladder](MetalRungLadder.png)
