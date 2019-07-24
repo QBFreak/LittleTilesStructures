@@ -26,6 +26,11 @@ These are various LittleTiles exports that I've made.
 
 ![I Beam](I-Beam.png)
 
+- Keyboard.txt - Quick little keyboard accessory for ComputerCraft
+- Mouse.txt - Quick little mouse accessory for ComputerCraft. 32-voxel grid.
+
+![Keyboard and mouse](KeyboardMouse.png)
+
 - MetalRungLadder.txt - The horizontal equivalent to the `Metal Rung Ladder` from Engineer's Decor. Purely decorative. 32-voxel grid. Requires Immersive Engineering (Steel Block).
 
 ![Metal Rung Ladder](MetalRungLadder.png)
