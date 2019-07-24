@@ -40,3 +40,9 @@ These are various LittleTiles exports that I've made.
 
 ![Tiny recipes](TinyRecipes.png)
 
+ - [SheetmetalAwningSingle.txt](SheetmetalAwningSingle.txt?raw=true) - A sheetmetal awning in classic awning green. Sized for single door, slightly wider than door. Requires Immersive Engineering.
+ - [SheetmetalAwningDouble.txt](SheetmetalAwningDouble.txt?raw=true) - A sheetmetal awning in classic awning green. Sized for double doors, slightly wider than doors. Requires Immersive Engineering.
+
+![Double Sheetmetal Awning](SheetmetalAwningDouble.png)
+![Single Sheetmetal Awning](SheetmetalAwningSingle.png)
+
