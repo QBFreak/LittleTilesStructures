@@ -4,7 +4,7 @@ A staple of old-school industry. Plus, they just look cool.
 
 These roof sections are sized to fit with my garage doors, assuming the tooth profile is visible from the same wall as the doors and a 5-block gap between each door. All require Iron Sheetmetal from Immersive Engineering, however only the end section uses it in any quantity. The center sections could have it easily replaced with something else.
 
-![Sawtooth Roof overview 1](SawtoothRoof-1)
+![Sawtooth Roof overview 1](SawtoothRoof-1.png)
 
 ## SawtoothRoofEnd.txt
 A reversible end section. Made primarily of sheetmetal. Requires Immersive Engineering.
