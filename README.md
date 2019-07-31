@@ -26,8 +26,8 @@ These are various LittleTiles exports that I've made.
 
 ![I Beam](I-Beam.png)
 
-- [Keyboard.txt](Keyboard.txt?raw=true) - Quick little keyboard accessory for ComputerCraft
-- [Mouse.txt](Mouse.txt?raw=true) - Quick little mouse accessory for ComputerCraft. 32-voxel grid.
+- [Keyboard.txt](Keyboard.txt?raw=true) - Little keyboard accessory for ComputerCraft. 32-voxel grid.
+- [Mouse.txt](Mouse.txt?raw=true) - Little mouse accessory for ComputerCraft. 32-voxel grid.
 
 ![Keyboard and mouse](KeyboardMouse.png)
 
