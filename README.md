@@ -46,3 +46,6 @@ These are various LittleTiles exports that I've made.
 ![Double Sheetmetal Awning](SheetmetalAwningDouble.png)
 ![Single Sheetmetal Awning](SheetmetalAwningSingle.png)
 
+- [Shelf.txt](Shelf.txt?raw=true) - A basic wire shelf, capable of holding three blocks on the middle shelf. Contrary to manufacturer's instructions and warnings, you can climb it. Comes in black, unlike the outdated Manufacturer's photo. Items shown on shelf are for reference only and not included with your purchase. Uses grid 32.
+
+![Shelf](Shelf.png)
