@@ -14,6 +14,10 @@ These are various LittleTiles exports that I've made.
 
 ![Sawtooth Roof overview](./Sawtooth%20Roof/SawtoothRoof-1-small.png)
 
+- [CheapOfficeChair.txt](CheapOfficeChair.txt?raw=true) - A cheap office chair. Looks kinda uncomfortable. I'm glad I don't have to sit in it. 32-voxel grid.
+
+![Office Chair](CheapOfficeChair.png)
+
 - [GarageDoor.txt](GarageDoor.txt?raw=true) - A simple Garage Door that opens upwards six blocks after sliding inwards one block. Axis is the lower left. Requires Chisel.
 
 ![Garage Door](GarageDoor.png)
