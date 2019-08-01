@@ -6,6 +6,10 @@ These are various LittleTiles exports that I've made.
 
 ![Industrial Railing overview](./Industrial%20Railing/IndustrialRailing-Demo-small.png)
 
+- [Ladders](./Ladders/) - A collection of ladders and step irons
+
+![Ladder pack overview](./Ladders/Ladder-pack-small.png)
+
 - [Sawtooth Roof](./Sawtooth%20Roof/) - A collection of structures for building a sawtooth roof.
 
 ![Sawtooth Roof overview](./Sawtooth%20Roof/SawtoothRoof-1-small.png)
@@ -30,10 +34,6 @@ These are various LittleTiles exports that I've made.
 - [Mouse.txt](Mouse.txt?raw=true) - Little mouse accessory for ComputerCraft. 32-voxel grid.
 
 ![Keyboard and mouse](KeyboardMouse.png)
-
-- [MetalRungLadder.txt](MetalRungLadder.txt?raw=true) - The horizontal equivalent to the `Metal Rung Ladder` from Engineer's Decor. Purely decorative. 32-voxel grid. Requires Immersive Engineering (Steel Block).
-
-![Metal Rung Ladder](MetalRungLadder.png)
 
  - [TinyAdvancedRecipe.txt](TinyAdvancedRecipe.txt?raw=true) - A tiny, decorative, Advanced Recipe. 32-voxel grid.
  - [TinyRecipe.txt](TinyRecipe.txt?raw=true) - A tiny, decorative, Little Recipe. 32-voxel grid.
