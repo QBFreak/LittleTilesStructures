@@ -4,8 +4,6 @@ A selection of ladders and step irons, perfect for industrial settings. **All us
 
 - [Download the zip](Ladders.zip?raw=true)
 
-![Ladder pack overview](Ladder-pack.png)
-
 ## [HighVisStepIron.txt](HighVisStepIron.txt?raw=true)
 
 A high-visibility, anti-corrosion coated step iron.
