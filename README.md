@@ -18,6 +18,27 @@ These are various LittleTiles exports that I've made.
 
 ![Office Chair](CheapOfficeChair.png)
 
+- [Cinderblock.txt](Cinderblock.txt?raw=true) - A cinderblock, for all your holding it down, holding it up, and throwing needs. Wait. No. Don't throw it. Not at me!
+
+![Cinderblock](Cinderblock.png)
+
+- [Cinderblock-basic.txt](Cinderblock-basic.txt?raw=true) - A low-tile version of the cinderblock. Because yeah, you're that cheap.
+
+![Cinderblock-basic](Cinderblock-basic.png)
+
+- [Cinderblock-wall.txt](Cinderblock-wall.txt?raw=true) - A single block of cinderblock wall, with mortar. Remember that time Kiro went idle and we walled him in? Heh. 32-voxel grid.
+
+![Cinderblock-wall](Cinderblock-wall.png)
+
+- [DraftingTableStand.txt](DraftingTableStand.txt?raw=true) - A stand for the Immersive Vehicles (MTS) Drafting Table. IMO it looks silly sitting way down there on the floor. A good companion for this is the Stool.
+
+![Drafting Table Stand](DraftingTableStand.png)
+![Drafting Table Stand with Stool](DraftingTableStandStool.png)
+
+- [Drywall.txt](Drywall.txt?raw=true) - It's a sheet of drywall. No tape. No mud. Just some screws to hold it up. Yeah, a few of em are crooked. Just like when I do drywall IRL...
+
+![Drywall](Drywall.png)
+
 - [GarageDoor.txt](GarageDoor.txt?raw=true) - A simple Garage Door that opens upwards six blocks after sliding inwards one block. Axis is the lower left. Requires Chisel.
 
 ![Garage Door](GarageDoor.png)
@@ -53,3 +74,9 @@ These are various LittleTiles exports that I've made.
 - [Shelf.txt](Shelf.txt?raw=true) - A basic wire shelf, capable of holding three blocks on the middle shelf. Contrary to manufacturer's instructions and warnings, you can climb it. Comes in black, unlike the outdated Manufacturer's photo. Items shown on shelf are for reference only and not included with your purchase. Uses grid 32.
 
 ![Shelf](Shelf.png)
+
+- [Stool.txt](Stool.txt?raw=true) - A simple single-block stool. Rubber-tipped feet to protect your floor. An excellent companion to the Drafting Table Stand for Immersive Vehicles.
+
+![Stool](Stool.png)
+
+
