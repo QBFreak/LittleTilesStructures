@@ -55,6 +55,10 @@ These are various LittleTiles exports that I've made.
 
 ![I Beam](I-Beam.png)
 
+- [ImmersivePalette.txt](ImmersivePalette.txt?raw=true) - A collection of tiles in colors and materials I use for building structures to compliment Immersive Engineering and related mods. Uses only LittleTiles blocks. Each 3x3 (@16) tile is a named structure to give a clue as to what that material was originally designed for. Ignore that extra white tile. I needed something to put it in a new recipe.
+
+![Immersive Palette](ImmersivePalette.png)
+
 - [Keyboard.txt](Keyboard.txt?raw=true) - Little keyboard accessory for ComputerCraft. 32-voxel grid.
 - [Mouse.txt](Mouse.txt?raw=true) - Little mouse accessory for ComputerCraft. 32-voxel grid.
 
